@@ -36,7 +36,7 @@ header li > a:hover {
 }
 
 .current {
-  border-bottom: 4px solid royalblue;
+  border-bottom: 4px solid black;
 }
 
 section {
